@@ -10,8 +10,10 @@ print(b)
 inv = linalg.inv(a)
 print(inv)
 
+
 i = linalg.inv(b)
 print(i)
+
 
 ab = matmul(a, b)
 print(ab)
